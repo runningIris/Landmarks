@@ -53,6 +53,7 @@
 		03E4ABE6237A5C61006CC4E5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		03E4ABF3237A5E1F006CC4E5 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		03E4ABF5237A7BF0006CC4E5 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		03E4ABF7237A80BB006CC4E5 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +84,7 @@
 		03E4ABB6237A5C5E006CC4E5 = {
 			isa = PBXGroup;
 			children = (
+				03E4ABF7237A80BB006CC4E5 /* README.md */,
 				03E4ABC1237A5C5E006CC4E5 /* Landmarks */,
 				03E4ABD8237A5C61006CC4E5 /* LandmarksTests */,
 				03E4ABE3237A5C61006CC4E5 /* LandmarksUITests */,
